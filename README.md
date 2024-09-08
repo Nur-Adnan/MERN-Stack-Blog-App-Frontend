@@ -80,13 +80,24 @@ A full-featured blog platform built using the MERN stack (MongoDB, Express.js, R
 
     - For the frontend:
       ```bash
-      npm start
+      npm run dev
       ```
-
-7. The application will be accessible at `http://localhost:3000`.
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/0ad0dd10-ad11-449b-81eb-0797243e83c8)
+![image](https://github.com/user-attachments/assets/efaaadc5-9c46-4780-947a-716e28d68da0)
+![image](https://github.com/user-attachments/assets/7088cde3-045f-41c3-b3f3-9b6480ed0f5a)
+![image](https://github.com/user-attachments/assets/26b8880e-054b-4538-9b3c-a09d95268a26)
+![image](https://github.com/user-attachments/assets/79b2e4cb-c8f3-4a67-9a16-8ffef7de2b77)
+![image](https://github.com/user-attachments/assets/75e5a710-8000-4461-898e-1b2d4b3463eb)
+![image](https://github.com/user-attachments/assets/cfa0f284-1c88-49db-833b-e6216c599930)
+![image](https://github.com/user-attachments/assets/2ec17eff-805a-4d89-a0ee-0fa7903cc06d)
+![image](https://github.com/user-attachments/assets/61c678d6-102c-456c-bf5e-710e1bc425c5)
+![image](https://github.com/user-attachments/assets/31708695-d7a6-4dca-9378-d8976a74cd07)
+![image](https://github.com/user-attachments/assets/d9c7d2c1-6dbf-4309-90b9-6fc40d0dccd7)
+![image](https://github.com/user-attachments/assets/16a6b725-5bba-4e0e-aa30-899b9db03199)
+![image](https://github.com/user-attachments/assets/43ea1bb4-2fe0-4270-b13c-ff930a0e9129)
 
 ## License
 This project is licensed under the MIT License.
