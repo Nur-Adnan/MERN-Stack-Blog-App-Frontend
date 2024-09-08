@@ -2,6 +2,18 @@
 
 A full-featured blog platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application enables users to explore and publish blogs, with a range of features designed for an engaging user experience.
 
+## Table of Contents
+- [Features](#features)
+  - [User Features](#user-features)
+  - [Admin Features](#admin-features)
+  - [Search Functionality](#search-functionality)
+- [Tech Stack](#tech-stack)
+- [Setup and Installation](#setup-and-installation)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Screenshots](#screenshots)
+- [License](#license)
+
 ## Features
 
 ### User Features
