@@ -97,6 +97,9 @@ A full-featured blog platform built using the MERN stack (MongoDB, Express.js, R
 
 ## Screenshots
 
+![Blog nur-adnan](https://github.com/user-attachments/assets/ed84edd1-f6f4-4127-a06a-d27555891613)
+![blog-homePage](https://github.com/user-attachments/assets/ee0edcf8-da7a-4bc6-94b7-d8fd1119a0dd)
+![Blog-nurAdnan](https://github.com/user-attachments/assets/d38750b5-8138-41d3-b559-5dbd9598d939)
 ![image](https://github.com/user-attachments/assets/0ad0dd10-ad11-449b-81eb-0797243e83c8)
 ![image](https://github.com/user-attachments/assets/efaaadc5-9c46-4780-947a-716e28d68da0)
 ![image](https://github.com/user-attachments/assets/7088cde3-045f-41c3-b3f3-9b6480ed0f5a)
